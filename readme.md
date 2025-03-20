@@ -2,6 +2,9 @@
 
 A modern, responsive web application that presents a curated collection of YouTube videos in an elegant grid layout. The application fetches video data from freeapi.app and provides a seamless way to search and access YouTube content.
 
+## Live link
+[click here](https://suuumans.github.io/youtube-video-listing/)
+
 ## 📸 Screenshots
 
 <div style="display: flex; gap: 10px;">
